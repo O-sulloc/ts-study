@@ -1,0 +1,23 @@
+{
+  "name": "ts-study",
+  "version": "1.0.0",
+  "description": "제로초 타입스크립트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-sulloc/ts-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-sulloc/ts-study/issues"
+  },
+  "homepage": "https://github.com/O-sulloc/ts-study#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
